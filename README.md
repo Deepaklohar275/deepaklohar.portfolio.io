@@ -1,2 +1,2 @@
 # deepaklohar.portfolio.io
-<H2>Hello Deepak<H2>
+<h1>Hello Deepak<h1>
